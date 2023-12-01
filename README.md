@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mark I am 22 years old</h1>
 <h3 align="center">Backend developer from Germany</h3>
-![image_processing20200410-20919-1jzg67b](https://github.com/xannytalk/xannytalk/assets/123320875/d87a4585-6bca-4cf1-97ee-407e2de9e7b7)
-
-
 - 🔭 I’m currently working on [Fivem ESX Better Framework](is under nda)
 
 - 🌱 I’m currently learning **assembler**
