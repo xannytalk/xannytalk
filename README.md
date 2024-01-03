@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mark I am 22 years old</h1>
 <h3 align="center">Backend developer from Germany</h3>
+
 - 🔭 I’m currently working on [Fivem ESX Better Framework](is under nda)
+- 🔭 I’m currently working on [Private Discord Moderation Bot]
 
 - 🌱 I’m currently learning **assembler**
 
