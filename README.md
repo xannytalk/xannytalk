@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mark I am 22 years old</h1>
+<h1 align="center">Hi 👋, I'm Mark
 <h3 align="center">Backend developer from Germany</h3>
 
 
