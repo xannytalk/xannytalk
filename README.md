@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Mark <br>📫  I’m currently working on swat.wiki<br>🌱 I’m currently learning assembler
+Hi 👋, I'm Mark <br>📫  
 
 
 ## 🌐 Socials:
